@@ -1,5 +1,4 @@
 import './App.css';
-
 function App() {
   return (
     <div className="App">
@@ -14,8 +13,9 @@ function App() {
       long-term,sustainable way.</p>
       <p> We hope that in the future people won't even realize we started selling
       shoes online, instead. they'll knowZappos as a service company that just
-      happens to sell _____.</p>
+      happens to sell _________.</p>
     </div>
+
   );
 }
 
